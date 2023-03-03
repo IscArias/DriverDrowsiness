@@ -18,5 +18,5 @@ Our convolutional neural network proved to be a powerful tool to create eye open
 # Files
 The files are divided into training codes for the driver drowsiness detection model (DriverDrowsiness_Mode_XX), models trained by the network (cnnDDX), and real-time capture and estimation (Real_Time_Stimator_DD).
 
-# HAARCASCADE
+# HAAR CASCADE
 Los archivos HAARCASCADE son archivos de clasificadores en cascada que se utilizan en la detección de objetos, especialmente en la detección de caras y características faciales en imágenes. Estos archivos contienen información de características visuales que se utilizan para identificar patrones en las imágenes. Los clasificadores en cascada son una técnica de aprendizaje automático que utiliza múltiples clasificadores para detectar objetos de interés. La técnica funciona examinando diferentes partes de la imagen en diferentes niveles de detalle, lo que permite una detección más precisa y eficiente de objetos en la imagen. Los archivos HAARCASCADE se utilizan comúnmente en la programación de aplicaciones de visión por computadora y son compatibles con varios lenguajes de programación como Python y OpenCV.
